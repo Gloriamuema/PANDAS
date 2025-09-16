@@ -15,7 +15,7 @@ print(type(converted_string))
 n = 34
 m = 4.56
 print( n+m)
-
+# python automatically converts int to float for addition
 string1 = input("Enter the string:")
 string2= input("Enter the  string ")
 converted_string1 = int(string1)
